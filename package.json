@@ -1,0 +1,17 @@
+{
+  "name": "playlistMaker",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "author": "Nadia Ghebrial Nieto",
+  "repository": "",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.5.0",
+    "csvtojson": "^1.1.8",
+    "express": "^4.16.1",
+    "path": "^0.12.7",
+    "querystring": "^0.2.0",
+    "request": "^2.83.0"
+  }
+}
